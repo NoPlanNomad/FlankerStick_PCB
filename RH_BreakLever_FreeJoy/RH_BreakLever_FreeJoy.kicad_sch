@@ -743,7 +743,7 @@
     (property "Value" "MCP3201" (at 109.9059 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:PowerIntegrations_SO-8" (at 129.54 39.37 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (at 129.54 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21290D.pdf" (at 130.81 33.02 0)
