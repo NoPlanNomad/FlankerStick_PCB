@@ -13,10 +13,9 @@ https://www.cgtrader.com/3d-print-models/hobby-diy/mechanical-parts/flanker-styl
 |2        |Capacitor : 0.1uF|0805     |
 |9        |Resistor  : 1K   |0805     |
 |2        |74HC165          |TSSOP-16 |
-|1        |JST_XH:B8B-XH-A  |P2.50 mm |
 |2        |JST_XH:B5B-XH-A  |P2.50 mm |
 |4        |JST_XH:B2B-XH-A  |P2.50 mm |
-|1        |JST_XH:B7B-XH-A  |P2.50 mm |
+|2        |JST_XH:B7B-XH-A  |P2.50 mm |
 
 ## HeadLogic_FreeJoy
 |quantaty | Type:Value      |Footprint|
